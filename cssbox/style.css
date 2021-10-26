@@ -1,0 +1,18 @@
+body{
+    /* background-color: blue; */
+    background-image: url(img/100x100.gif);
+    color: chartreuse;
+}
+div{
+    position: absolute;
+    left: 200px;
+    background-color: cyan;
+    color: black;
+    width: 400px;
+    height: 400px;
+    padding-left: 60px;
+    padding-top: 40px;
+    border-style: solid;
+    margin: 30px;
+    color: blueviolet;
+}
